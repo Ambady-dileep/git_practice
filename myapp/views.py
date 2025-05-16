@@ -4,3 +4,7 @@ from django.shortcuts import render
 
 
 # Testing Git workflow
+
+
+
+print("Hello from MAIN branch")
